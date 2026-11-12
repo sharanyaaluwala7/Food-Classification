@@ -8,6 +8,8 @@ Includes dataset inspection, a training and evaluation pipeline, and a website.
 You train the models on your machine; the website then shows only numbers that
 `train.py` computed from those models' real predictions.
 
+LIVE WEBSITE URL : https://food-classification-7hs3.onrender.com
+
 ## Run order
 
 ```bash
